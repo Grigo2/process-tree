@@ -21,3 +21,5 @@ run program and enter a custom string as a program argument (default program nam
 * kill
 * stop
 * wait
+
+##### _Author Grzegorz Rocławski_

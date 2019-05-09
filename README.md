@@ -14,6 +14,8 @@ run program and enter a custom string as a program argument (default program nam
 ```
 
 #### System functions using in code:
+* fork
 * execl
 * kill
 * stop
+* wait

@@ -1,7 +1,9 @@
 # Execl-and-sigaction-structure 
 Code written in C language using Linux system functions.
 ## Description
-123
+A program that creates new processes that wait for the signal to end. Each new procces create his own procces group.
+The signal starts propagation from the stem process.
+
 ## How to run
 compile source file using gcc by console:
 ```
